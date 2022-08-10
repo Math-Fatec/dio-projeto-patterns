@@ -7,7 +7,7 @@ São soluções consolidadas para problemas recorrentes no desenvolvimento e man
 O livro 'Design Patterns: Elements of Reusable Object-Oriented Software' (1995) é a principal referência sobre o tema,
 a qual tornou os autores Gamma, Helm, Johnson e Vlissides conhecidos como 'Gang of Four' (GoF).
 
-# Padrões de Projeto #
+# Padrões #
 São comumente classificados nas seguintes categorias:
 ## Padrões Criacionais:
 Abstract Factory, Builder, Factory Method, Prototype, Singleton*;
