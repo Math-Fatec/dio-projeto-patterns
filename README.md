@@ -9,6 +9,9 @@ a qual tornou os autores Gamma, Helm, Johnson e Vlissides conhecidos como 'Gang 
 
 # Padrões de Projeto #
 São comumente classificados nas seguintes categorias:
-Padrões Criacionais: Abstract Factory, Builder, Factory Method, Prototype, Singleton*;
-Padrões Comportamentais: Chain of Responsability, Iterator, Observer, Strategy*, Template Method;
-Padrões Estruturais: Adapter, Bridge, Composite, Decorator, Facade*, Flyweight, Proxy.
+## Padrões Criacionais:
+Abstract Factory, Builder, Factory Method, Prototype, Singleton*;
+## Padrões Comportamentais:
+Chain of Responsability, Iterator, Observer, Strategy*, Template Method;
+## Padrões Estruturais:
+Adapter, Bridge, Composite, Decorator, Facade*, Flyweight, Proxy.
